@@ -1,16 +1,12 @@
 {
   "dependencies": {
-    "next": "^9.5.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "^11.1.2",
+    "react": "^0.0.0-experimental-bc9bb87c2-20210917",
+    "react-dom": "^0.0.0-experimental-bc9bb87c2-20210917"
   },
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "deploy": "vercel"
-  },
-  "devDependencies": {
-    "vercel": "^19.2.0"
+    "start": "next start"
   }
 }
