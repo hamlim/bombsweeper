@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "next": "^11.1.2",
+    "next": "^11.1.3",
     "react": "^0.0.0-experimental-bc9bb87c2-20210917",
     "react-dom": "^0.0.0-experimental-bc9bb87c2-20210917"
   },
